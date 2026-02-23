@@ -76,6 +76,7 @@ POST `/users/addUser` — Add New User
 ### Ticket
 
 POST `/tickets/create` — Create Event Tickets
+
 GET `/tickets/available` — View Available Tickets
 
 ### Booking
