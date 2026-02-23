@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: ticketing-system
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/ticketing_db
+    username: postgres
+    password: 8611
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+#server:
+#  port: 8080
