@@ -54,7 +54,7 @@ Entities:
 * Booking
 * Payment
 
-<img width="1245" height="518" alt="ticketing-system db" src="https://github.com/user-attachments/assets/0fd8edc6-e14f-4b34-9255-1af002e39f72" />
+<img width="1245" height="518" alt="ticketing-system db u" src="https://github.com/user-attachments/assets/d8d634b9-5757-4323-8626-65ebc192ceec" />
 
 ---
 
