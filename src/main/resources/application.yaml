@@ -4,8 +4,8 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5432/ticketing_db
-    username: postgres
-    password: 8611
+    username: YOUR_DB_USERNAME
+    password: YOUR_DB_PASSWORD
 
   jpa:
     hibernate:
@@ -15,5 +15,5 @@ spring:
       hibernate:
         format_sql: true
 
-#server:
-#  port: 8080
+server:
+  port: 8080
