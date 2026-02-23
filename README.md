@@ -54,7 +54,7 @@ Entities:
 * Booking
 * Payment
 
-(Attach DB diagram screenshot here)
+<img width="1245" height="518" alt="ticketing-system db" src="https://github.com/user-attachments/assets/0fd8edc6-e14f-4b34-9255-1af002e39f72" />
 
 ---
 
